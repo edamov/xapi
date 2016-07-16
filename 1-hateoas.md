@@ -12,6 +12,8 @@ http://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/
 http://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-3/
 http://www.slideshare.net/mikestowe/hypermedia-the-good-the-bad-and-the-ugly
 
+http://apievangelist.com/2014/08/05/the-hypermedia-api-debate-sorry-reasonable-just-does-not-sell/
+
 http://timelessrepo.com/haters-gonna-hateoas
 
 https://github.com/json-api/json-api/issues/98
