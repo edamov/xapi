@@ -27,12 +27,15 @@ https://github.com/json-api/json-api/issues/98
 * JSON API
 * HAL
 
-
+Make the API browsing easier.
+Allow to see the relations between locations and photos.
+Bring a potential flexibility as you can modify the provided links without impacting the consumers hoping those consumers use the provided links…
 
 ### За:
 
 * RESTful
-* Урлы не хардкодятся на стороне клиента, упрощает перенос АПИ между доменами
+* Урлы не хардкодятся на стороне клиента, дает гибкость в плане последующих изменений ссылок на ресурсы
+* Облегчает "просмотр" АПИ (как человеком так и машиной)
 
 ### Против:
 
