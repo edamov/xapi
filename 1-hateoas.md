@@ -12,6 +12,8 @@ http://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/
 http://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-3/
 http://www.slideshare.net/mikestowe/hypermedia-the-good-the-bad-and-the-ugly
 
+http://apievangelist.com/2014/08/05/the-hypermedia-api-debate-sorry-reasonable-just-does-not-sell/
+
 http://timelessrepo.com/haters-gonna-hateoas
 
 https://github.com/json-api/json-api/issues/98
@@ -27,17 +29,16 @@ https://github.com/json-api/json-api/issues/98
 * JSON API
 * HAL
 
-
-
 ### За:
 
-* RESTful
-* Урлы не хардкодятся на стороне клиента, упрощает перенос АПИ между доменами
+* Урлы не хардкодятся на стороне клиента, дает гибкость в плане последующих изменений ссылок на ресурсы
+* Облегчает "просмотр" АПИ (как человеком так и машиной)
 
 ### Против:
 
 * Больше времени на разработку
 * Избыточность
-* Клиенту сложнее разбирать ответы от АПИ, если отсутствуют библиотеки для этого.
+* Клиенту сложнее разбирать ответы от АПИ, если отсутствуют библиотеки для этого
+* Клиенту в большинстве случаев приходится дожидаться ответа для отправки следующего запроса
 
 В реальности, чтобы оценить все достоинства и недостатки лучше попробовать на личном опыте.
