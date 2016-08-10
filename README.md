@@ -2,8 +2,6 @@
 
 Требования и стандарты к разработки и документированию API.
 
-- [ ] write some articles
-- [x] drink a cup of tea
 
 
 ### План:
