@@ -12,7 +12,7 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
  * APIDoc
 
 | Criteria / Spec | RAML | Open API | API Blueprint |
-| -- | -- | -- | -- |
+| --- | --- | --- | --- |
 | Community | 1:2 | 2:2 | 3:2 |
 | Popularity | 1:2 | 2:2 | 3:2 |
 | Auth support | 1:3 | 2:3 | 3:3 |
