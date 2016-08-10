@@ -27,6 +27,7 @@
 * Status codes
 * Caching
 * Upload images
+* Logging (web dashboard with request/response logs)
 * Examples
 * Bad practices
 * Helpful links
