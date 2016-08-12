@@ -15,6 +15,8 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
 | --- | --- | --- | --- |
 | Community | 1:2 | 2:2 | 3:2 |
 | Popularity | 1:2 | 2:2 | 3:2 |
+| Spec format | yaml | 2:2 | 3:2 |
+| Documentation first | yaml | 2:2 | 3:2 |
 | Auth support | 1:3 | 2:3 | 3:3 |
 | Status Codes | 1:4 | 2:4 | 3:4 |
 | templates support (traits, schemas for re-using) | 1:5 | 2:5 | 3:5 |
