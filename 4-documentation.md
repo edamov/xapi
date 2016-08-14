@@ -13,23 +13,22 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
 
 | Criteria / Spec | RAML | Open API | API Blueprint |
 | --- | --- | --- | --- |
-| Community | 1:2 | 2:2 | 3:2 |
-| Popularity | 1:2 | 2:2 | 3:2 |
+| Github stars |  2 221 | 3 534 | 4 092 |
 | Spec format | yaml | 2:2 | 3:2 |
-| Documentation first | yaml | 2:2 | 3:2 |
-| Auth support | 1:3 | 2:3 | 3:3 |
-| Status Codes | 1:4 | 2:4 | 3:4 |
-| templates support (traits, schemas for re-using) | 1:5 | 2:5 | 3:5 |
-| file uploads | 1:6 | 2:6 | 3:6 |
-| Versioning support | 1:7 | 2:7 | 3:7 |
-| mock server generating | 1:8 | 2:8 | 3:8 |
-| test tools (schema validation) | 1:9 | 2:9 | 3:9 |
-| PHP code generator | 1:10 | 2:10 | 3:10 |
-| php-spec-parser | 1:11 | 2:11 | 3:11 |
-| client SDK generator | 1:12 | 2:12 | 3:12 |
-| ease getting started | 1:13 | 2:13 | 3:13 |
-| static docs generator | 1:14 | 2:14 | 3:14 |
-| playground generator | 1:15 | 2:15 | 3:15 |
+| Documentation first | Yes | 2:2 | 3:2 |
+| Auth support | OAuth1, OAuth2, Basic, Digest, custom | 2:3 | 3:3 |
+| Status Codes support | Yes | 2:4 | 3:4 |
+| Templates support (traits, schemas for re-using) | Yes | 2:5 | 3:5 |
+| File uploads support | Yes | 2:6 | 3:6 |
+| Versioning support | Yes | 2:7 | 3:7 |
+| Mock server generator | No | 2:8 | 3:8 |
+| Test tools (schema validation) | Yes | 2:9 | 3:9 |
+| PHP code generator | No | 2:10 | 3:10 |
+| PHP spec parser | Yes | 2:11 | 3:11 |
+| PHP SDK generator | No | 2:12 | 3:12 |
+| Ease getting started | Easy | 2:13 | 3:13 |
+| static docs generator | Yes | 2:14 | 3:14 |
+| playground generator | Yes | 2:15 | 3:15 |
 | IDE support | Yes | No | No |
 
 
