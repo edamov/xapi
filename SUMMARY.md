@@ -7,7 +7,7 @@
 * [Documentation](4-documentation.md)
    * [RAML](4-1-raml.md)
    * API Blueprint
-   * Open API (Swagger)
+   * [Open API (Swagger)](4-2-open_api_swagger.md)
    * apiDoc
    * Postman
 
