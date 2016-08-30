@@ -6,7 +6,7 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
 
 https://docs.google.com/spreadsheets/d/1iBS2qdI2uWWs5yOOCGYdoYLtLYlJJ84RS7ilJc3oOhI/edit#gid=0
 
-(более актуальные результаты сравнения в гугл доке)
+(более актуальная таблица сравнения в гугл доке)
 
 | Criteria / Spec | RAML | Open API | API Blueprint |
 | --- | --- | --- | --- |
