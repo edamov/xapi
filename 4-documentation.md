@@ -4,10 +4,9 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
 
 Сравнение спецификаций и тулзовин для документирования:
 
-- что сравнивать:
- * Open API (Swagger 2.0)
- * RAML
- * API Blueprint
+https://docs.google.com/spreadsheets/d/1iBS2qdI2uWWs5yOOCGYdoYLtLYlJJ84RS7ilJc3oOhI/edit#gid=0
+
+(более актуальные результаты сравнения в гугл доке)
 
 | Criteria / Spec | RAML | Open API | API Blueprint |
 | --- | --- | --- | --- |
