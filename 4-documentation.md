@@ -14,7 +14,7 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
 | Criteria / Spec | RAML | Open API | API Blueprint |
 | --- | --- | --- | --- |
 | Github stars |  2 221 | 3 534 | 4 092 |
-| Community activity |   |  |  |
+| Tools community size | 800  | 3500 | 400 |
 | Spec format | yaml | yaml/json | MSON (Markdown) |
 | Spec Documentation | Good | 2:2 | 3:2 |
 | Documentation first | Yes | Yes | Yes |
