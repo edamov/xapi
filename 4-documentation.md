@@ -8,8 +8,6 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
  * Open API (Swagger 2.0)
  * RAML
  * API Blueprint
- * Postman
- * APIDoc
 
 | Criteria / Spec | RAML | Open API | API Blueprint |
 | --- | --- | --- | --- |
@@ -34,5 +32,3 @@ http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php
 | Playground generator | Yes | Yes | 3:15 |
 | IDE support | Yes (Atom) | Yes (PHPStorm, Atom) | No |
 
-
-- Events (crud, apply|deny|maybe, search), Users (crud, forgot password, change password, follow), Categories(or tags) Auth (OAuth2, JWT)
