@@ -8,6 +8,7 @@ RAML подкупает за счет простоты и возможносте
 
 Заметки:
 
+- аналог swagger-ui https://edamov.github.io/raml-spec-example
 - возможность конвертировать в WIKI (Confluence / JIRA Markup) формат
 - разделение спецификации по ролям (юзер, админ)
 - IDE (Atom плагин с автодополнением) http://apiworkbench.com
